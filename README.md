@@ -15,6 +15,12 @@ See Dev Out for origonal files
 # To Include
 - TBA
 
+- CDM / tracert [website.domain] | cisco.com 
+- IPv4 is DNS, what a computer uses 
+- Use Google to identify pieces of servier name
+- for example gettyimages.ca | server-3-164-255-63.yyc51.r.cloudfront.net | 3.164.255.63 | yyc is Calgary in Airport Letters
+
+
 ---
 
 # Open House and Recuriting Ideas
