@@ -3,12 +3,17 @@ Introductory Computer Science
 
 ---
 
+See Dev Out for origonal files 
+
+---
+
 # Progressions
+- See Below and create Progressions
 
 ---
 
 # To Include
-- 
+- TBA
 
 ---
 
