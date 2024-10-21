@@ -33,6 +33,7 @@ Use Chrome locally (going inside the computer, called a pathway).
 Then they will change the content to something else they find on the internet using Microsoft Visual Code Studio.
 This will be their own content or someone else's.
 Students will also learn how website scripting will keep their browsers safe (Javascript autoexecute).
+We might even use a router tool called traceroute and DNS to introduce some Cybersecurity tools.
 
 
 Ideas
